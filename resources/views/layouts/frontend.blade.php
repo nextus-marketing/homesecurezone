@@ -103,7 +103,7 @@
                                 </ul>
                             </div>
                             <div class="btn-area">
-                                <a href="/#contact" class="header-btn4">Contact Us<span><i
+                                <a href="tel:+18448052323" class="header-btn4">Contact Us<span><i
                                             class="fa-solid fa-arrow-right"></i></span></a>
                             </div>
                         </div>
@@ -158,7 +158,7 @@
                                 <i class="fa-solid fa-phone-volume"></i>
                             </div>
                             <div class="contact-info-text">
-                                <a href="tel:+3(924)4596512">+3(924)4596512</a>
+                                <a href="tel:+18448052323">+1 (844) 805-2323</a>
                             </div>
                         </div>
                     </div>
@@ -205,7 +205,7 @@
                             <a href="#"><i class="fa-solid fa-phone"></i></a>
                         </div>
                         <div class="text">
-                            <a href="tel:+880123456789">+880 123 456 789</a>
+                            <a href="tel:+18448052323">+1 (844) 805-2323</a>
                         </div>
                     </div>
                     <div class="location-area">

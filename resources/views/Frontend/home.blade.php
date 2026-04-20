@@ -128,7 +128,7 @@
                         </div>
 
                         <div class="btn-area" data-aos="fade-left" data-aos-duration="1300" data-aos-delay="500">
-                            <a href="#contact" class="header-btn4">
+                            <a href="tel:+18448052323" class="header-btn4">
                                 Call To Security Expert
                                 <i class="fa-solid fa-arrow-right"></i>
                             </a>
@@ -635,7 +635,7 @@
                                     <h2 class="text-anime-style-3">Empower Your Security Request Information</h2>
                                     <div class="space16"></div>
                                     <div class="btn-area" data-aos="fade-up" data-aos-duration="1200">
-                                        <a href="tel:+1234567890" class="header-btn3">Call Us +1 (855) 843-6011<i
+                                        <a href="tel:+18448052323" class="header-btn3">Call Us +1 (844) 805-2323<i
                                                 class="fa-solid fa-arrow-right"></i></a>
 
                                     </div>
