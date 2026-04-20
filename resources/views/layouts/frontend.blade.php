@@ -158,7 +158,7 @@
                                 <i class="fa-solid fa-phone-volume"></i>
                             </div>
                             <div class="contact-info-text">
-                                <a href="tel:+18448052323">+1 (844) 805-2323</a>
+                                <a href="tel:+18448052323">+1 (844) 805</a>
                             </div>
                         </div>
                     </div>
